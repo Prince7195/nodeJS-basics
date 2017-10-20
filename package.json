@@ -1,0 +1,25 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "learning nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prince7195/nodeJS-learning.git"
+  },
+  "author": "Vijay Deepak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prince7195/nodeJS-learning/issues"
+  },
+  "homepage": "https://github.com/Prince7195/nodeJS-learning#readme",
+  "dependencies": {
+    "moment": "^2.19.1"
+  },
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
